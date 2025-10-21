@@ -1,0 +1,14 @@
+body {
+    background-image: url(./assents/BG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#page {
+    padding: 24px;
+    box-sizing: border-box;
+    background-color: #F0E8C2;
+    width: 800px;
+    margin: 41px auto;
+    border-radius: 24px;
+}
