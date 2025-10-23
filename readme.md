@@ -38,6 +38,6 @@ Tudo isso com uma **estrutura semântica**, fonte personalizada e um **rodapé c
 /
 ├── index.html          # Página principal da receita
 ├── style.css           # Arquivo de estilos (design e layout)
-└── assets/             # Pasta de imagens e ícones usados no site
+└── assents/             # Pasta de imagens e ícones usados no site
     ├── main-image.png  # Imagem principal do cupcake
     └── heart.svg       # Ícone de coração do rodapé
